@@ -57,7 +57,7 @@ For major changes, please open an issue first to discuss what you would like to 
 
 ## Licence
 
-This project is licensed under a standard MIT License - please refer to the `LICENCE` file for further details.
+This project is licensed under the CC BY-NC 4.0 License - consult the `LICENCE` file for further details.
 
 ## Acknowledgements
 
