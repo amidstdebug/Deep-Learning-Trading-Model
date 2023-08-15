@@ -25,6 +25,7 @@ The CNN Time-Series + Mean Reversion Strategy Stock Trading Model is a state-of-
 
 - Python 3.7 or higher.
 - `TensorFlow` library.
+- `PyTorch` library.
 - A foundational understanding of stock trading, time-series analysis, and convolutional neural networks.
 
 ## Installation
